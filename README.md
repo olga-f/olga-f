@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
     </tbody>
   </table>
 </div>
-
+-->
 
