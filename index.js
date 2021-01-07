@@ -1,10 +1,8 @@
 require("dotenv").config();
 const fetch = require("cross-fetch");
-
 const Mustache = require("mustache");
 const fs = require("fs");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-// const puppeteerService = require('./services/puppeteer.service');
 
 const DATA = {
   date: new Date().toLocaleDateString("en-GB", {
@@ -20,15 +18,19 @@ const DATA = {
 
 const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?id=${process.env.OPEN_WEATHER_CITY_ID}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`;
 
-async function setWeatherInformation() {
+async function fetchWeather() {
   try {
     const res = await fetch(weatherUrl);
-
     if (res.status >= 400) {
       throw new Error("Bad response from server");
     }
-
     const weather = await res.json();
+    setWeatherData(weather);
+  } catch (err) {
+    console.error(err);
+  }
+
+  function setWeatherData(weather) {
     DATA.city_temperature = Math.round(weather.main.temp);
     DATA.city_weather = weather.weather[0].description;
     DATA.weather_icon_src = `https://openweathermap.org/img/wn/${weather.weather[0].icon}.png`;
@@ -45,8 +47,6 @@ async function setWeatherInformation() {
       minute: "2-digit",
       timeZone: "Europe/Madrid",
     });
-  } catch (err) {
-    console.error(err);
   }
 }
 
@@ -59,11 +59,8 @@ async function writeTemplate() {
 }
 
 async function generateReadMe() {
-  await setWeatherInformation();
-  //await setInstagramPosts();
+  await fetchWeather();
   await writeTemplate();
-
-  // await puppeteerService.close();
 }
 
 generateReadMe();
