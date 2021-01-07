@@ -1,0 +1,30 @@
+{
+  "name": "olga-f",
+  "version": "1.0.0",
+  "description": "A dynamic README.md ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olga-f/olga-f.git"
+  },
+  "keywords": [
+    "readme.md",
+    "javascript",
+    "github",
+    "actions"
+  ],
+  "author": "Olga F. Andreiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olga-f/olga-f/issues"
+  },
+  "homepage": "https://github.com/olga-f/olga-f#readme",
+  "dependencies": {
+    "cross-fetch": "^3.0.6",
+    "dotenv": "^8.2.0",
+    "mustache": "^4.1.0"
+  }
+}
