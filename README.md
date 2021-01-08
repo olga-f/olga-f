@@ -15,20 +15,13 @@ Here is the current weather for Málaga:
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;50d.png></img> Today the sun rises at
  <b>08:30</b> 
 and sets at <b>18:17</b>
-<small><i>Last updated: Friday, 8 January, 17:38 CET </i></small>
+<small><i><br/>Last updated: Friday, 8 January, 17:52 CET </i></small>
 <br/>
 
 ---
 
-<p><br/> My passion lies in bringing ideas to life with code. <br/></p>
-
-<p align="center">
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=olga-f&layout=compact&hide=css,html">
-</p>
-
+<p> My passion lies in bringing <strong>ideas</strong> to life with <strong>code</strong>. </p>
 <br/>
-
----
 
 <div align="center">
       <table border="0" cellspacing="0" cellpadding="0">
@@ -66,5 +59,7 @@ and sets at <b>18:17</b>
 <div>
 
 ---
-
+<p align="center">
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=olga-f&layout=compact&hide=css,html">
+</p>
 
