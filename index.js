@@ -16,7 +16,8 @@ const DATA = {
   }),
 };
 
-const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?id=${process.env.OPEN_WEATHER_CITY_ID}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`;
+const OPEN_WEATHER_CITY_ID = 2514256; // city id for Malaga, Spain
+const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?id=${OPEN_WEATHER_CITY_ID}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`;
 
 async function fetchWeather() {
   try {
