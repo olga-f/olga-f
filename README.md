@@ -11,12 +11,12 @@ I am a Software Engineer, born and raised in Ukraine <img src="https://image.fla
 
 Here is the current weather for Málaga:
 <b> 13°C, 
- mist.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;50d.png></img> Today the sun rises at
- <b>08:30 AM</b> 
-and sets at <b>06:17 PM</b>
+ light rain.
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10d.png></img> Today the sun rises at
+ <b>08:30</b> 
+and sets at <b>18:17</b>
 <br/>
-<small><i>Last updated: Friday, January 8, 6:00 PM GMT+1 </i></small>
+<small><i>Last updated: Friday, 8 January, 18:03 CET </i></small>
 <br/>
 
 ---
