@@ -10,13 +10,13 @@ I am a Software Engineer, originally from Ukraine <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 15°C, 
- clear sky.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n.png></img> Today the sun rises at
- <b>08:03</b> 
-and sets at <b>18:59</b>
+<b> 11°C, 
+ mist.
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;50n.png></img> Today the sun rises at
+ <b>08:02</b> 
+and sets at <b>19:00</b>
 <br/>
-<small><i>Last updated: Wednesday, 17 February, 19:10 CET </i></small>
+<small><i>Last updated: Thursday, 18 February, 01:09 CET </i></small>
 <br/>
 
 ---
