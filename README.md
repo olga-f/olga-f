@@ -10,13 +10,13 @@ I am a Software Engineer, originally from Ukraine <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 12°C, 
+<b> 16°C, 
  broken clouds.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n.png></img> Today the sun rises at
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d.png></img> Today the sun rises at
  <b>07:49</b> 
 and sets at <b>19:10</b>
 <br/>
-<small><i>Last updated: Sunday, 28 February, 07:04 CET </i></small>
+<small><i>Last updated: Sunday, 28 February, 11:52 CET </i></small>
 <br/>
 
 ---
@@ -69,9 +69,7 @@ and sets at <b>19:10</b>
     </tbody>
   </table>
 <div>
-<p align="left">
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=olga-f&hide=css,html">
-</p>
+
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=olga-f&color=38A3A5">
