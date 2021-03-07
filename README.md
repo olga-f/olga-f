@@ -11,12 +11,12 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 Here is the current weather for Málaga:
 <b> 14°C, 
- mist.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;50n.png></img> Today the sun rises at
+ overcast clouds.
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d.png></img> Today the sun rises at
  <b>07:40</b> 
 and sets at <b>19:17</b>
 <br/>
-<small><i>Last updated: Sunday, 7 March, 07:04 CET </i></small>
+<small><i>Last updated: Sunday, 7 March, 08:56 CET </i></small>
 <br/>
 
 ---
@@ -32,7 +32,7 @@ and sets at <b>19:17</b>
           <strong align="center"><a target=“_blank” href="https://tufotoboda.com">tufotoBoda.com</a></strong>
         </th>
           <th>
-          <strong align="center"><a target=“_blank” href="https://nextjs.gitbook.io/react/">Gitbook on React and NextJS</a></strong>
+          <strong align="center"><a target=“_blank” href="https://olga-f.gitbook.io/react/">React Recipes</a></strong>
         </th>
         <th>
           <strong align="center"><a target=“_blank” href="https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme">Light Color Theme - VS Code Extension</a></strong>
@@ -50,7 +50,7 @@ and sets at <b>19:17</b>
           </a>
         </td>
                 <td>
-          <a target=“_blank” href="https://nextjs.gitbook.io/react/">
+          <a target=“_blank” href="https://olga-f.gitbook.io/react/">
             <img
               alt="Gitbook on React and NextJS"
               src="https://raw.github.com/olga-f/olga-f/master/img/react.gif"
