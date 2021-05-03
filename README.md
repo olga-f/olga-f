@@ -19,7 +19,6 @@ and sets at <b>21:07</b>
 <small><i>Last updated: Monday, 3 May, 17:00 CEST </i></small>
 <br/>
 
----
 <br/>
 <p> My passion is bringing <strong>ideas</strong> to life with <strong>code</strong>. </p>
 <br/>
