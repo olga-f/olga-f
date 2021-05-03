@@ -16,10 +16,9 @@ Here is the current weather for Málaga:
  <b>07:21</b> 
 and sets at <b>21:07</b>
 <br/>
-<small><i>Last updated: Monday, 3 May, 17:01 CEST </i></small>
+<small><i>Last updated: Monday, 3 May, 17:09 CEST </i></small>
 <br/>
 
----
 <br/>
 <p> My passion is bringing <strong>ideas</strong> to life with <strong>code</strong>. </p>
 <br/>
@@ -28,6 +27,9 @@ and sets at <b>21:07</b>
       <table border="0" cellspacing="0" cellpadding="0">
     <thead>
       <tr>
+          <th>
+          <strong align="center"><a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">JavaScript Code Runner</a></strong>
+        </th>
         <th>
           <strong align="center"><a target=“_blank” href="https://tufotoboda.com">tufotoBoda.com</a></strong>
         </th>
@@ -41,6 +43,14 @@ and sets at <b>21:07</b>
     </thead>
     <tbody>
       <tr>
+             <td>
+           <a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">
+            <img
+              alt="npm javascript-code-runner"
+              src="https://raw.github.com/olga-f/olga-f/master/img/npm.svg"
+            />
+          </a>
+        </td>
         <td>
            <a target=“_blank” href="https://tufotoboda.com">
             <img
