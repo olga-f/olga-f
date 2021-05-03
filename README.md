@@ -11,19 +11,18 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 Here is the current weather for Málaga:
 <b> 18°C, 
- heavy intensity rain.
+ light rain.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10d.png></img> Today the sun rises at
  <b>07:21</b> 
 and sets at <b>21:07</b>
 <br/>
-<small><i>Last updated: Monday, 3 May, 16:55 CEST </i></small>
+<small><i>Last updated: Monday, 3 May, 16:57 CEST </i></small>
 <br/>
 
 ---
 <br/>
 <p> My passion is bringing <strong>ideas</strong> to life with <strong>code</strong>. </p>
 <br/>
----
 
 <div align="center">
       <table border="0" cellspacing="0" cellpadding="0">
