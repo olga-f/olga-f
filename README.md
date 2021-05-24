@@ -1,6 +1,5 @@
 <h3 align="center">👋 Hello, I'm Olga. Welcome to my GitHub profile! </h3>
 <p align="center">
-  <strong><a href="https://twitter.com/OlgaFAndreiko">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/olga-f/">LinkedIn</a></strong>
 </p>
 
@@ -10,13 +9,13 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 17°C, 
+<b> 22°C, 
  clear sky.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d.png></img> Today the sun rises at
  <b>07:04</b> 
 and sets at <b>21:25</b>
 <br/>
-<small><i>Last updated: Monday, 24 May, 08:10 CEST </i></small>
+<small><i>Last updated: Monday, 24 May, 11:46 CEST </i></small>
 <br/>
 
 <br/>
