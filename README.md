@@ -15,7 +15,7 @@ Here is the current weather for Málaga:
  <b>07:04</b> 
 and sets at <b>21:25</b>
 <br/>
-<small><i>Last updated: Monday, 24 May, 16:25 CEST </i></small>
+<small><i>Last updated: Monday, 24 May, 16:35 CEST </i></small>
 <br/>
 
 <br/>
@@ -23,7 +23,7 @@ and sets at <b>21:25</b>
 <br/>
 
 #### Some of my creations:
-- [tufotoBoda.com](https://tufotoboda.com/) - a web application that helps couples 💑 to find a wedding photographer 📷 in Spain 💒;
+- [tufotoBoda.com](https://tufotoboda.com/) - a web application that helps to find a photographer 📷 in Spain;
 - tufotoBoda on [Google Play](https://play.google.com/store/apps/details?id=com.tufotoboda.app);
 - [JavaScript Code Runner](https://www.npmjs.com/package/javascript-code-runner) - npm package 📦;
 - [React Recipes](https://olga-f.gitbook.io/react/) - my Gitbook 📘 on React and NextJS;
