@@ -9,30 +9,34 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 25°C, 
+<b> 26°C, 
  clear sky.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d.png></img> Today the sun rises at
  <b>07:04</b> 
 and sets at <b>21:25</b>
 <br/>
-<small><i>Last updated: Monday, 24 May, 15:36 CEST </i></small>
+<small><i>Last updated: Monday, 24 May, 15:51 CEST </i></small>
 <br/>
 
 <br/>
-<p> My passion is bringing <strong>ideas</strong> to life with <strong>code</strong>. </p>
+<p> My passion is bringing ideas to life with code. </p>
+<br/>
+
+#### Some of my creations:
+- [tufotoBoda.com](https://tufotoboda.com/) - a web application that helps couples 💑 to find a wedding photographer 📷 in Spain 💒;
+- tufotoBoda on [Google Play](https://play.google.com/store/apps/details?id=com.tufotoboda.app);
+- [JavaScript Code Runner](https://www.npmjs.com/package/javascript-code-runner) - npm package 📦;
+- [React Recipes](https://olga-f.gitbook.io/react/) - my Gitbook 📘 on React and NextJS;
+- [Light Color Theme](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme) - VS Code extension ✨;
+- [JSprep.org](https://jsprep.org) - tutorial and challenges in JavaScript 💻;
+- [JSprep.org](https://github.com/olga-f/jsprep.org) - GitHub repository :octocat: 
 
 
-### Some of my Creations:
-- [tufotoBoda.com - a web application that helps couples 💑 to find a wedding photographer 📷 in Spain 💒](https://tufotoboda.com/)
-- [tufotoBoda on Google Play](https://play.google.com/store/apps/details?id=com.tufotoboda.app)
-- [JavaScript Code Runner - npm package 📦](https://www.npmjs.com/package/javascript-code-runner)
-- [React Recipes - my Gitbook 📘 on React and NextJS](https://olga-f.gitbook.io/react/)
-- [Light Color Theme - VS Code extension ✨](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme)
-- [jsprep.org - Tutorial and challenges in JavaScript 💻](https://jsprep.org)
-- [jsprep.org - GitHub repository :octocat: ](https://github.com/olga-f/jsprep.org)
+<br/>
 
 
-### Favorite Quote ✌️: 
+#### Favorite quote ✌️: 
+
 > Übung macht den Meister.
 
 
@@ -45,7 +49,7 @@ and sets at <b>21:25</b>
     <thead>
       <tr>
              <th>
-          <strong align="center"><a target=“_blank” href="https://jsprep.org">jsprep.org</a></strong>
+          <strong align="center"><a target=“_blank” href="https://jsprep.org">JSprep.org</a></strong>
         </th>
           <th>
           <strong align="center"><a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">JavaScript Code Runner</a></strong>
