@@ -15,7 +15,7 @@ Here is the current weather for Málaga:
  <b>07:04</b> 
 and sets at <b>21:25</b>
 <br/>
-<small><i>Last updated: Monday, 24 May, 16:17 CEST </i></small>
+<small><i>Last updated: Monday, 24 May, 16:21 CEST </i></small>
 <br/>
 
 <br/>
@@ -29,7 +29,7 @@ and sets at <b>21:25</b>
 - [React Recipes](https://olga-f.gitbook.io/react/) - my Gitbook 📘 on React and NextJS;
 - [Light Color Theme](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme) - VS Code extension ✨;
 - [JSprep.org](https://jsprep.org) - tutorial and challenges in JavaScript 💻;
-- [JSprep.org](https://github.com/olga-f/jsprep.org) - GitHub repository :octocat: 
+- JSprep.org - [GitHub repository](https://github.com/olga-f/jsprep.org) :octocat: 
 
 
 <br/>
@@ -105,9 +105,13 @@ and sets at <b>21:25</b>
 <div>
  <br/>
  <br/>
- #### My favorite quote ✌️: 
+
+
+#### My favorite quote ✌️: 
 
 > Übung macht den Meister.
+
+
 
 
 
