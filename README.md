@@ -9,18 +9,34 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 22°C, 
+<b> 25°C, 
  clear sky.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d.png></img> Today the sun rises at
  <b>07:04</b> 
 and sets at <b>21:25</b>
 <br/>
-<small><i>Last updated: Monday, 24 May, 11:46 CEST </i></small>
+<small><i>Last updated: Monday, 24 May, 14:09 CEST </i></small>
 <br/>
 
 <br/>
 <p> My passion is bringing <strong>ideas</strong> to life with <strong>code</strong>. </p>
 <br/>
+
+
+### Some of my Creations:
+- [tufotoBoda.com - a web application that helps couples 💑 to find a wedding photographer 📷 in Spain 💒](https://tufotoboda.com/)
+- [JavaScript Code Runner - npm package 📦](https://www.npmjs.com/package/javascript-code-runner)
+- [React Recipes - my Gitbook 📘 on React and NextJS](https://olga-f.gitbook.io/react/)
+- [Light Color Theme - VS Code extension ✨](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme)
+- [JSPrep.org - Tutorial and challenges in JavaScript 💻](https://jsprep.org)
+- [JSPrep.org - GitHub repository :octocat: ](https://github.com/olga-f/jsprep.org)
+
+
+#### Favourite Quote: 
+> Übung macht den Meister.
+
+
+
 
 <div align="center">
       <table border="0" cellspacing="0" cellpadding="0">
