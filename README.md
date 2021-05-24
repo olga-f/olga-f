@@ -15,7 +15,7 @@ Here is the current weather for Málaga:
  <b>07:04</b> 
 and sets at <b>21:25</b>
 <br/>
-<small><i>Last updated: Monday, 24 May, 15:51 CEST </i></small>
+<small><i>Last updated: Monday, 24 May, 16:17 CEST </i></small>
 <br/>
 
 <br/>
@@ -35,14 +35,6 @@ and sets at <b>21:25</b>
 <br/>
 
 
-#### Favorite quote ✌️: 
-
-> Übung macht den Meister.
-
-
-<br/>
-<br/>
-
 
 <div align="center">
       <table border="0" cellspacing="0" cellpadding="0">
@@ -52,7 +44,7 @@ and sets at <b>21:25</b>
           <strong align="center"><a target=“_blank” href="https://jsprep.org">JSprep.org</a></strong>
         </th>
           <th>
-          <strong align="center"><a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">JavaScript Code Runner</a></strong>
+          <strong align="center"><a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">JS Code Runner</a></strong>
         </th>
         <th>
           <strong align="center"><a target=“_blank” href="https://tufotoboda.com">tufotoBoda.com</a></strong>
@@ -111,6 +103,12 @@ and sets at <b>21:25</b>
     </tbody>
   </table>
 <div>
+ <br/>
+ <br/>
+ #### My favorite quote ✌️: 
+
+> Übung macht den Meister.
+
 
 
 <p align="right">
