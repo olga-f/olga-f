@@ -11,11 +11,11 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 Here is the current weather for Málaga:
 <b> 17°C, 
  broken clouds.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n.png></img> Today the sun rises at
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d.png></img> Today the sun rises at
  <b>07:02</b> 
 and sets at <b>21:28</b>
 <br/>
-<small><i>Last updated: Friday, 28 May, 02:36 CEST </i></small>
+<small><i>Last updated: Friday, 28 May, 08:54 CEST </i></small>
 <br/>
 
 <br/>
