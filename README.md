@@ -9,13 +9,13 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 25°C, 
- few clouds.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;02d.png></img> Today the sun rises at
+<b> 24°C, 
+ clear sky.
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n.png></img> Today the sun rises at
  <b>06:58</b> 
 and sets at <b>21:34</b>
 <br/>
-<small><i>Last updated: Tuesday, 8 June, 20:30 CEST </i></small>
+<small><i>Last updated: Tuesday, 8 June, 21:59 CEST </i></small>
 <br/>
 
 <br/>
@@ -23,13 +23,11 @@ and sets at <b>21:34</b>
 <br/>
 
 #### Some of my creations:
-- [tufotoBoda.com](https://tufotoboda.com/) - a web application that helps to find a photographer 📷 in Spain;
-- tufotoBoda on [Google Play](https://play.google.com/store/apps/details?id=com.tufotoboda.app);
 - [JavaScript Code Runner](https://www.npmjs.com/package/javascript-code-runner) - npm package 📦;
 - [React Recipes](https://olga-f.gitbook.io/react/) - my Gitbook 📘 on React and NextJS;
 - [Light Color Theme](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme) - VS Code extension ✨;
 - [JSPrep.org](https://jsprep.org) - tutorial and challenges in JavaScript 💻;
-- JSPrep.org - [GitHub repository](https://github.com/olga-f/jsprep.org) :octocat: 
+- JSPrep.org - a repository on [GitHub](https://github.com/olga-f/jsprep.org) :octocat: 
 
 
 <br/>
@@ -46,9 +44,7 @@ and sets at <b>21:34</b>
           <th>
           <strong align="center"><a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">JS Code Runner</a></strong>
         </th>
-        <th>
-          <strong align="center"><a target=“_blank” href="https://tufotoboda.com">tufotoBoda.com</a></strong>
-        </th>
+
           <th>
           <strong align="center"><a target=“_blank” href="https://olga-f.gitbook.io/react/">React Recipes</a></strong>
         </th>
@@ -75,14 +71,7 @@ and sets at <b>21:34</b>
             />
           </a>
         </td>
-        <td>
-           <a target=“_blank” href="https://tufotoboda.com">
-            <img
-              alt="Wedding photographers in Spain"
-              src="https://raw.githubusercontent.com/olga-f/olga-f/master/img/og.jpg"
-            />
-          </a>
-        </td>
+
                 <td>
           <a target=“_blank” href="https://olga-f.gitbook.io/react/">
             <img
