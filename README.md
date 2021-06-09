@@ -9,13 +9,13 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 21°C, 
+<b> 27°C, 
  clear sky.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d.png></img> Today the sun rises at
  <b>06:58</b> 
 and sets at <b>21:35</b>
 <br/>
-<small><i>Last updated: Wednesday, 9 June, 08:17 CEST </i></small>
+<small><i>Last updated: Wednesday, 9 June, 12:21 CEST </i></small>
 <br/>
 
 <br/>
@@ -30,68 +30,8 @@ and sets at <b>21:35</b>
 - JSPrep.org - a repository on [GitHub](https://github.com/olga-f/jsprep.org) :octocat: 
 
 
-<br/>
 
 
-
-<div align="center">
-      <table border="0" cellspacing="0" cellpadding="0">
-    <thead>
-      <tr>
-             <th>
-          <strong align="center"><a target=“_blank” href="https://jsprep.org">JSPrep.org</a></strong>
-        </th>
-          <th>
-          <strong align="center"><a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">JS Code Runner</a></strong>
-        </th>
-
-          <th>
-          <strong align="center"><a target=“_blank” href="https://olga-f.gitbook.io/react/">React Recipes</a></strong>
-        </th>
-        <th>
-          <strong align="center"><a target=“_blank” href="https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme">Light Color Theme</a></strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-                   <td>
-           <a target=“_blank” href="https://jsprep.org">
-            <img
-              alt="JS Prep"
-              src="https://raw.githubusercontent.com/olga-f/olga-f/master/img/jspreporg.jpg"
-            />
-          </a>
-        </td>
-             <td>
-           <a target=“_blank” href="https://www.npmjs.com/package/javascript-code-runner">
-            <img
-              alt="npm javascript-code-runner"
-              src="https://raw.github.com/olga-f/olga-f/master/img/npm.svg"
-            />
-          </a>
-        </td>
-
-                <td>
-          <a target=“_blank” href="https://olga-f.gitbook.io/react/">
-            <img
-              alt="Gitbook on React and NextJS"
-              src="https://raw.githubusercontent.com/olga-f/olga-f/master/img/react.gif"
-            />
-          </a>
-        </td>
-        <td>
-          <a target=“_blank” href="https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme">
-            <img
-              alt="Light Color Theme - Visual Studio Code Extension"
-              src="https://raw.github.com/olga-f/olga-f/master/img/vscode.png"
-            />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-<div>
  <br/>
  <br/>
 
