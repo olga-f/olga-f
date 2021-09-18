@@ -9,13 +9,13 @@ I am a software engineer living in Málaga, Spain <img src="https://image.flatic
 
 
 Here is the current weather for Málaga:
-<b> 24°C, 
- few clouds.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;02d.png></img> Today the sun rises at
- <b>08:01</b> 
-and sets at <b>20:22</b>
+<b> 22°C, 
+ clear sky.
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n.png></img> Today the sun rises at
+ <b>08:02</b> 
+and sets at <b>20:21</b>
 <br/>
-<small><i>Last updated: Friday, 17 September, 20:06 CEST </i></small>
+<small><i>Last updated: Saturday, 18 September, 02:18 CEST </i></small>
 <br/>
 
 <br/>
