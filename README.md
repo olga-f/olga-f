@@ -5,7 +5,7 @@
 
 ---
 
-I am a software engineer living in Málaga, Spain <img src="https://image.flaticon.com/icons/svg/206/206724.svg" width="20"/>.
+I am a software engineer living in Málaga, Spain <img src="https://cdn.pixabay.com/photo/2016/07/06/14/37/spain-1500646_960_720.png" width="30"/>.
 
 
 Here is the current weather for Málaga:
@@ -15,7 +15,7 @@ Here is the current weather for Málaga:
  <b>07:58</b> 
 and sets at <b>18:07</b>
 <br/>
-<small><i>Last updated: Thursday, 18 November, 13:09 CET </i></small>
+<small><i>Last updated: Thursday, 18 November, 15:07 CET </i></small>
 <br/>
 
 <br/>
