@@ -12,10 +12,10 @@ Here is the current weather for Málaga:
 <b> 15°C, 
  scattered clouds.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;03n.png></img> Today the sun rises at
- <b>08:24</b> 
-and sets at <b>18:36</b>
+ <b>08:23</b> 
+and sets at <b>18:37</b>
 <br/>
-<small><i>Last updated: Wednesday, 26 January, 19:07 CET </i></small>
+<small><i>Last updated: Thursday, 27 January, 01:23 CET </i></small>
 <br/>
 
 <br/>
