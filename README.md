@@ -9,13 +9,13 @@ I am a software engineer originally from Ukraine 🇺🇦 living in Málaga, Spa
 
 
 Here is the current weather for Málaga:
-<b> 20°C, 
- scattered clouds.
-</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;03d.png></img> Today the sun rises at
+<b> 25°C, 
+ clear sky.
+</b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d.png></img> Today the sun rises at
  <b>07:00</b> 
 and sets at <b>21:30</b>
 <br/>
-<small><i>Last updated: Tuesday, 31 May, 08:10 CEST </i></small>
+<small><i>Last updated: Tuesday, 31 May, 14:16 CEST </i></small>
 <br/>
 
 <br/>
