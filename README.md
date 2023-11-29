@@ -5,17 +5,17 @@
 
 ---
 
-I am a software engineer originally from Ukraine 🇺🇦 living in Málaga, Spain 🇪🇸.
+I am a software engineer originally from Ukraine 🇺🇦 living in Almeria, Spain 🇪🇸.
 
 
-Here is the current weather for Málaga:
+Here is the current weather for Almeria:
 <b> 15°C, 
  few clouds.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;02n.png></img> Today the sun rises at
  <b>08:01</b> 
 and sets at <b>17:54</b>
 <br/>
-<small><i>Last updated: Wednesday, 29 November, 22:45 CET </i></small>
+<small><i>Last updated: Wednesday, 29 November, 22:46 CET </i></small>
 <br/>
 
 <br/>
