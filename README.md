@@ -15,7 +15,7 @@ Here is the current weather for Málaga:
  <b>08:09</b> 
 and sets at <b>18:02</b>
 <br/>
-<small><i>Last updated: Wednesday, 29 November, 01:34 CET </i></small>
+<small><i>Last updated: Wednesday, 29 November, 07:09 CET </i></small>
 <br/>
 
 <br/>
