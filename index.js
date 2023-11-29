@@ -16,7 +16,7 @@ const DATA = {
   }),
 };
 
-const OPEN_WEATHER_CITY_ID = 2514256; // city id for Malaga, Spain
+const OPEN_WEATHER_CITY_ID = 2521886; // city id for Almeria, Spain
 const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?id=${OPEN_WEATHER_CITY_ID}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`;
 
 async function fetchWeather() {
