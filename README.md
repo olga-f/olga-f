@@ -9,13 +9,13 @@ I am a software engineer originally from Ukraine 🇺🇦 living in Almeria, Spa
 
 
 Here is the current weather for Almeria:
-<b> 23°C, 
+<b> 28°C, 
  scattered clouds.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;03d.png></img> Today the sun rises at
  <b>07:59</b> 
 and sets at <b>20:04</b>
 <br/>
-<small><i>Last updated: Wednesday 24 September at 08:15 CEST </i></small>
+<small><i>Last updated: Wednesday 24 September at 14:20 CEST </i></small>
 <br/>
 
 <br/>
