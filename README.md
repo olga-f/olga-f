@@ -13,7 +13,7 @@ Here is the current weather for Almeria:
  <b>07:44</b> 
 and sets at <b>18:03</b>
 <br/>
-<small><i>Last updated: Tuesday 11 November at 01:53 CET </i></small>
+<small><i>Last updated: Tuesday 11 November at 07:17 CET </i></small>
 <br/>
 
 <br/>
