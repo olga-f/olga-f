@@ -11,9 +11,9 @@ Here is the current weather for Almeria:
  clear sky.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n.png></img> Today the sun rises at
  <b>08:22</b> 
-and sets at <b>18:04</b>
+and sets at <b>18:05</b>
 <br/>
-<small><i>Last updated: Friday 2 January at 19:17 CET </i></small>
+<small><i>Last updated: Saturday 3 January at 01:54 CET </i></small>
 <br/>
 
 <br/>
