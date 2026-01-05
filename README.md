@@ -10,10 +10,10 @@ Here is the current weather for Almeria:
 <b> 14°C, 
  overcast clouds.
 </b> <img width="50" src=https:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n.png></img> Today the sun rises at
- <b>08:22</b> 
+ <b>08:23</b> 
 and sets at <b>18:06</b>
 <br/>
-<small><i>Last updated: Sunday 4 January at 19:15 CET </i></small>
+<small><i>Last updated: Monday 5 January at 02:02 CET </i></small>
 <br/>
 
 <br/>
